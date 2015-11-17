@@ -1,0 +1,11 @@
+{
+ "name": "SQL-RV-parser-project",
+  "description": "Оборот вагона по РПС",
+  "author": "andreevich <2254577@gmail.com>",
+  "version": "0.1.3",
+  "private": true,
+  "dependencies": {
+    "co": "latest",
+    "mssql": "latest"
+  }
+}
